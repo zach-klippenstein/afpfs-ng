@@ -1,0 +1,8 @@
+
+
+- make a list of hosts
+- sort out multiple users
+- handle preferred UAM
+- status line scrolling
+
+- check to see if mountpoint's already been used
